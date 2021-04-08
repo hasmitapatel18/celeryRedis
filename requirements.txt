@@ -1,7 +1,7 @@
 amqp==2.5.1
 billiard==3.6.1
 celery==4.4.0rc3
-Django==2.2.5
+Django==2.2.20
 gunicorn==19.9.0
 importlib-metadata==0.20
 kombu==4.6.4
