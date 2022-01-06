@@ -1,6 +1,6 @@
 amqp==2.5.1
 billiard==3.6.1
-celery==4.4.0rc3
+celery==5.2.2
 Django==2.2.5
 gunicorn==19.9.0
 importlib-metadata==0.20
